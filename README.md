@@ -36,5 +36,5 @@ pip install -r requirements.txt
 python botR.py
 ```
 
-### Скоро выложу исходный код.
+### NO SCREENSHOTS?
 
